@@ -31,6 +31,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    color: white;
 }
 
 .contenedor {
@@ -40,4 +41,11 @@
 
 .imagen {
     width: 100%;
+}
+
+.piedepagina {
+    color: white;
+    background-color: black;
+    margin-top: 100px;
+    height: 40%;
 }
